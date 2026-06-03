@@ -1,7 +1,5 @@
 # Hola, soy Juan López 
-
 Estudiante de Ingeniería en Sistemas Computacionales enfocado en desarrollo backend, bases de datos y desarrollo de software.
-
 Actualmente busco residencias profesionales y oportunidades junior donde pueda seguir creciendo como desarrollador.
 
 ## Tecnologías
@@ -22,14 +20,7 @@ Actualmente busco residencias profesionales y oportunidades junior donde pueda s
 ### Desarrollo
 - .NET
 - .NET MAUI
-- WinForms
-- Android Studio
 - REST APIs
-
-### Herramientas
-- Git
-- GitHub
-- Linux
 
 ## Proyectos Destacados
 
@@ -41,19 +32,6 @@ Sistema de punto de venta desarrollado en C#, WinForms y MySQL con gestión de i
 
 ### Aplicación de Evaluación Alimenticia
 Aplicación Android desarrollada en Java para evaluar hábitos alimenticios mediante cuestionarios estructurados.
-
-## Intereses
-
-- Desarrollo Backend
-- Bases de Datos
-- Arquitectura de Software
-- Programación Competitiva
-- Desarrollo Móvil
-
-## Logros
-
-- Top 10 Nacional en Coding Cup 2024.
-- Participaciones en programación competitiva e ICPC.
 
 ## Contacto
 
